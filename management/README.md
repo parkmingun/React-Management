@@ -1,5 +1,5 @@
 # Management System
-강의 따라서 진행ㅁㄴㅇ
+강의 따라서 진행
 
 
 # Getting Started with Create React App
